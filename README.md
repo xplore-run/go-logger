@@ -1,5 +1,5 @@
 # go-logger
-
+NOTE - This is in BETA phase.
 A flexible and extensible logging framework for Go applications with support for multiple output sinks, log rotation, and context-based structured logging.
 
 It uses github.com/rs/zerolog and gopkg.in/natefinch/lumberjack.v2 libraries.
